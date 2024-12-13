@@ -17,5 +17,5 @@ Instal semua dependensi:
    pip install numpy pandas tensorflow
    ```
 
-Lalu anda dapat mengakses capstone2.ipynb untuk membangun model hingga menyimpan dan convert model. 
+Lalu anda dapat mengakses capstone3.ipynb untuk membangun model hingga menyimpan dan convert model. 
 
