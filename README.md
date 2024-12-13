@@ -1,4 +1,4 @@
-# README
+# Machine Learning - Seefud
 
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk membangun **sistem rekomendasi** menggunakan dataset berikut:
